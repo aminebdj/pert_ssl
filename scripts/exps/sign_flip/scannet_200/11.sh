@@ -7,7 +7,7 @@ CURR_QUERY=100
 
 # # TRAIN
 python main_instance_segmentation.py \
-general.experiment_name="10_scannet200_sign_flip" \
+general.experiment_name="11_scannet200_sign_flip" \
 general.project_name="New_Project" \
 data/datasets=scannet200 \
 general.num_targets=201 \
